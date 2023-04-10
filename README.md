@@ -1,4 +1,10 @@
+![image](https://user-images.githubusercontent.com/127886470/230816286-d5532005-e0ce-4dea-8fc7-defe08ec3589.png) 
 ### Hi there 👋
+My name is Gabriela 
+
+🌱 I'm currently learning Front-End Development!
+
+
 
 <!--
 **gabrielapal/gabrielapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
