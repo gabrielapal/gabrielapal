@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/127886470/230816286-d5532005-e0ce-4dea-8fc7-defe08ec3589.png) 
+![](https://github.com/gabrielapal/gabrielapal/blob/main/gab-header.jpg)
+
 ### Hi there, I'm Gabriela 👋
 
 <img src="/tom-gif.gif" width="350" height="190"/>
