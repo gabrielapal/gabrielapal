@@ -30,8 +30,8 @@ Responsive Typography, Flexbox, Media Queries & Standard Breakpoints
 
 I'm always open to making new connections! 
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielapalomo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielapalomo/)](https://www.linkedin.com/in/gabrielapalomo/)
+[![Gmail Badge](https://img.shields.io/badge/-palomog5-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:palomog5@gmail.com)](mailto:palomog5@gmail.com)
 
 Thanks for poppin' by 😊
 
