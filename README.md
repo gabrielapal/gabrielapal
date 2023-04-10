@@ -12,8 +12,10 @@
 🔎 What I'm currently learning:
 Responsive Typography, Flexbox, Media Queries & Standard Breakpoints
 
+<p align="center">
 <img src="/learning-so-much.gif" width="350" height="190"/>
-
+</p>
+  
 💡 Other tools I know:
 
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
