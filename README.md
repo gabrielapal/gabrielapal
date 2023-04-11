@@ -11,10 +11,6 @@
 
 🔎 What I'm currently learning:
 Responsive Typography, Flexbox, Media Queries & Standard Breakpoints
-
-<p align="center">
-<img src="/learning-so-much.gif" width="350" height="190"/>
-</p>
   
 💡 Other tools I know:
 
@@ -35,6 +31,10 @@ I'm always open to making new connections!
 [![Gmail Badge](https://img.shields.io/badge/-palomog5-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:palomog5@gmail.com)](mailto:palomog5@gmail.com)
 
 Thanks for poppin' by 😊
+
+<p align="center">
+<img src="/progress.gif" width="480" height="480"/>
+</p>
 
 <!--
 **gabrielapal/gabrielapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
