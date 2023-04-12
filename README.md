@@ -27,8 +27,15 @@ Responsive Typography, Flexbox, Media Queries & Standard Breakpoints
 
 I'm always open to making new connections! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielapalomo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielapalomo/)](https://www.linkedin.com/in/gabrielapalomo/)
-[![Gmail Badge](https://img.shields.io/badge/-palomog5-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:palomog5@gmail.com)](mailto:palomog5@gmail.com)
+<a href="mailto:palomog5@gmail.com">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
+      alt="My e-mail"/></a>
+      
+<a href="https://www.linkedin.com/in/gabrielapalomo/">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="My LinkedIn profile"/></a>
 
 Thanks for poppin' by 😊
 
