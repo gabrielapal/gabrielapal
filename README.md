@@ -41,8 +41,14 @@
 
 Thanks for poppin' by 😊
 
+
+
+
 <p align="center">
-<img src="/progress.gif" width="480" height="480"/>
+<img src="/elmo.gif" width="420" height="300"/>
+</p>
+<p align="center">
+The feeling you get when you find that hard-to-find bug in your code 🎉
 </p>
 
 <!--
