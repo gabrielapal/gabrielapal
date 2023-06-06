@@ -48,7 +48,7 @@ Thanks for poppin' by 😊
 <img src="/elmo.gif" width="420" height="300"/>
 </p>
 <p align="center">
-The feeling you get when you find that hard-to-find bug in your code 🎉
+Me finding the bug in my code 🎉
 </p>
 
 <!--
