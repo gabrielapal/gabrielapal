@@ -1,7 +1,11 @@
+<div align="center"
+     
 ![](https://github.com/gabrielapal/gabrielapal/blob/main/gab-header.jpg)
-
-### Hi there, I'm Gabriela! 👋
-
+       
+## Hi there, I'm Gabriela! 👋
+  
+</div>
+                 
 🌱 I'm currently learning Front-End Development
 
 👍 Languages I know:   
