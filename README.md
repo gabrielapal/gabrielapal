@@ -4,13 +4,8 @@
        
 ## Hi there, I'm Gabriela! 👋
 
-<a href="https://www.linkedin.com/in/gabrielapalomo/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/gabrielapal"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:palomog5@gmail.com"> 
-               <img height="34" 
-                    src="https://github.com/gabrielapal/gabrielapal/assets/127886470/2a5b62c7-181f-4f0d-b85a-6e82ec938500" alt="email"></a>&nbsp;&nbsp;
-               <!--*Email icon created by Freepik - Flaticon-->        
-               
+<a href="https://www.linkedin.com/in/gabrielapalomo/"><img height="37" src="https://github.com/gabrielapal/gabrielapal/assets/127886470/aa7f95ca-8541-4371-bebe-e6345faa805f"></a>&nbsp;&nbsp;  <!--*Linkedin icon created by Freepik - Flaticon--> <a href="mailto:palomog5@gmail.com"> <img height="38" src="https://github.com/gabrielapal/gabrielapal/assets/127886470/a15be8ef-fa5b-40be-8c53-1708d5021be5" alt="email"></a>&nbsp;&nbsp; <!--*Email icon created by Freepik - Flaticon-->        
+
 </div>
 
 🌱 I'm currently learning Front-End Development
