@@ -3,7 +3,13 @@
 ![](https://github.com/gabrielapal/gabrielapal/blob/main/gab-header.jpg)
        
 ## Hi there, I'm Gabriela! 👋
-  
+
+<a href="https://www.linkedin.com/in/gabrielapalomo/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/gabrielapal"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:palomog5@gmail.com"> 
+               <img
+                    src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="My e-mail"/></a>&nbsp;&nbsp;
+               
 </div>
                  
 🌱 I'm currently learning Front-End Development
@@ -33,17 +39,7 @@
 
 🌷 I'm always open to making new connections and meeting fellow coders 
 
-<a href="mailto:palomog5@gmail.com">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
-      alt="My e-mail"/></a>
-      
-<a href="https://www.linkedin.com/in/gabrielapalomo/">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
-      alt="My LinkedIn profile"/></a>
-
-Thanks for poppin' by 😊
+😊 Thanks for poppin' by! 
 
 
 
