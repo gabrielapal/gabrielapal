@@ -6,7 +6,7 @@
 
 <p align="center>
 <a href="https://www.linkedin.com/in/gabrielapalomo/"><img height="39" src="https://github.com/gabrielapal/gabrielapal/assets/127886470/aa7f95ca-8541-4371-bebe-e6345faa805f"/></a>&nbsp;&nbsp; <!--*Linkedin icon created by Freepik - Flaticon--> 
-<a href="mailto:palomog5@gmail.com"><img height="40" src="https://github.com/gabrielapal/gabrielapal/assets/127886470/a15be8ef-fa5b-40be-8c53-1708d5021be5"/></a>&nbsp;&nbsp; <!--*Email icon created by Freepik - Flaticon-->  
+<a href="mailto:palomog5@gmail.com"><img height="40" src="sent.png"/></a>&nbsp;&nbsp; <!--*Email icon created by Freepik - Flaticon-->  
 </p>
 
 </div>
