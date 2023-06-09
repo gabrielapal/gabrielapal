@@ -7,11 +7,12 @@
 <a href="https://www.linkedin.com/in/gabrielapalomo/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/gabrielapal"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:palomog5@gmail.com"> 
-               <img
-                    src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="My e-mail"/></a>&nbsp;&nbsp;
+               <img height="34" 
+                    src="https://github.com/gabrielapal/gabrielapal/assets/127886470/2a5b62c7-181f-4f0d-b85a-6e82ec938500" alt="email"></a>&nbsp;&nbsp;
+               <!--*Email icon created by Freepik - Flaticon-->        
                
 </div>
-                 
+
 🌱 I'm currently learning Front-End Development
 
 👍 Languages I know:   
