@@ -5,9 +5,15 @@
 ## Hi there, I'm Gabriela! 👋
 
 <p align="center>
-<a href="https://www.linkedin.com/in/gabrielapalomo/"><img height="39" src="https://github.com/gabrielapal/gabrielapal/assets/127886470/aa7f95ca-8541-4371-bebe-e6345faa805f"/></a>&nbsp;&nbsp; <!--*Linkedin icon created by Freepik - Flaticon--> 
-<a href="mailto:palomog5@gmail.com"><img height="40" src="sent.png"/></a>&nbsp;&nbsp; <!--*Email icon created by Freepik - Flaticon-->  
-</p>
+<a href="mailto:palomog5@gmail.com">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
+      alt="My e-mail"/></a>
+      
+<a href="https://www.linkedin.com/in/gabrielapalomo/">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="My LinkedIn profile"/></a>
 
 </div>
 
