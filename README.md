@@ -2,7 +2,7 @@
      
 ![hello3](https://github.com/gabrielapal/gabrielapal/assets/127886470/061853da-153c-4319-8ab4-7135c86e9810)
        
-## I'm Gabriela! 👋
+# I'm Gabriela! 👋
 
 <p align="center>
 <a href="mailto:palomog5@gmail.com">
