@@ -22,7 +22,7 @@
 </div>
     
 <div>
-     <img align="right" height="210px" width="290px" alt="GIF" src="/elmo.gif" alt="elmo" />
+     <img align="right" height="200px" width="280px" alt="GIF" src="/elmo.gif" alt="elmo" />
 </div>
     
 🌱 I'm currently learning Front-End Development
