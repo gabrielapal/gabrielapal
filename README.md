@@ -15,10 +15,6 @@
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
 
-<a href="https://www.dev.to/gabrielapal">
-    <img
-      src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"
-               alt="My Dev profile"/></a>
 </div>
     
 <div>
