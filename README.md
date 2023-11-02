@@ -1,9 +1,10 @@
-<div align="center"
-     
-![hello3](https://github.com/gabrielapal/gabrielapal/assets/127886470/061853da-153c-4319-8ab4-7135c86e9810)
-       
-# I'm Gabriela! 👋
+<div>
+     <img align="center" height="200px" width="280px" alt="GIF" src="/wavehello.gif" alt="wavehello" />
+         
+# Welcome, I'm Gabriela! 
 
+</div> 
+     
 <p align="center>
 <a href="mailto:palomog5@gmail.com">
     <img
@@ -14,12 +15,12 @@
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
+      
+<a href="https://www.discordapp.com/users/gabrielapal/">
+     <img
+     src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="My discord profile"
+</div>
 
-</div>
-    
-<div>
-     <img align="right" height="200px" width="280px" alt="GIF" src="/elmo.gif" alt="elmo" />
-</div>
     
 🌱 I'm currently learning Front-End Development
      
@@ -32,12 +33,7 @@
 
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-          
-<div>
-    <p align="right">
-         <i>Me finding the bug in my code</i>
-    </p>
-    </div>
+     
           
 🔧 Tools I know:
           
