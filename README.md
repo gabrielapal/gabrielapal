@@ -1,7 +1,7 @@
 <div>
      <img align="center" height="200px" width="280px" alt="GIF" src="/wavehello.gif" alt="wavehello" />
          
-# Welcome, I'm Gabriela! 
+# Welcome, I'm Gabriela! <a href="https://emoji.gg/emoji/8158-bun-type"><img src="https://cdn3.emoji.gg/emojis/8158-bun-type.gif" width="54px" height="54px" alt="bun_type"></a>
 
 </div> 
      
