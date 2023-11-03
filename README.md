@@ -1,5 +1,4 @@
 <div>
-     <img align="center" height="200px" width="280px" alt="GIF" src="/wavehello.gif" alt="wavehello" />
          
 # Welcome, I'm Gabriela!  <a href="https://emoji.gg/emoji/8158-bun-type"><img src="https://cdn3.emoji.gg/emojis/8158-bun-type.gif" width="54px" height="54px" alt="bun_type"></a>
 
@@ -44,7 +43,9 @@
 
 🌷 I'm always open to making new connections and meeting fellow coders 
 
-😊 Thanks for poppin' by! 
+😊 Thanks for visiting! 
+
+<img align="center" height="200px" width="280px" alt="GIF" src="/wavehello.gif" alt="wavehello" />
 
 <!--
 **gabrielapal/gabrielapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
