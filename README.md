@@ -1,10 +1,6 @@
-<div>
-         
-# Welcome, I'm Gabriela!  <a href="https://emoji.gg/emoji/8158-bun-type"><img src="https://cdn3.emoji.gg/emojis/8158-bun-type.gif" width="54px" height="54px" alt="bun_type"></a>
+<h1 align="center">Welcome, I'm Gabriela!  <a href="https://emoji.gg/emoji/8158-bun-type"><img src="https://cdn3.emoji.gg/emojis/8158-bun-type.gif" width="54px" height="54px" alt="bun_type"></a></h1>
 
-</div> 
-     
-<p align="center>
+<p align="center">
 <a href="mailto:palomog5@gmail.com">
     <img
       src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
@@ -18,8 +14,7 @@
 <a href="https://www.discordapp.com/users/gabrielapal/">
      <img
      src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="My discord profile"
-</div>
-
+</p>
     
 🌱 I'm currently learning Front-End Development
      
