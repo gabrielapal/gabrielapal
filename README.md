@@ -11,12 +11,8 @@
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
       
-<a href="https://www.discordapp.com/users/gabrielapal/">
-     <img
-     src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="My discord profile"
-</p>
     
-🌱 I'm currently learning Front-End Development
+🌱 I'm currently learning UX Design & Front-End Development
      
 👍 Languages I know:   
 
@@ -25,16 +21,20 @@
 
 🔎 What I'm currently learning:
 
+![](https://img.shields.io/badge/InVision-FF3366.svg?style=for-the-badge&logo=InVision&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
      
           
-🔧 Tools I know:
+🔧 Toolkit:
           
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)          
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+![](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 🌷 I'm always open to making new connections and meeting fellow coders 
 
