@@ -21,7 +21,6 @@
 
 🔎 What I'm currently learning:
 
-![](https://img.shields.io/badge/InVision-FF3366.svg?style=for-the-badge&logo=InVision&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
