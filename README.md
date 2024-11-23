@@ -12,7 +12,9 @@
       alt="My LinkedIn profile"/></a>
       
     
-🌱 I'm currently learning UX Design & Front-End Development
+🌱 Learning front-end development
+
+👩🏻‍🎓 Currently pursuing an advanced diploma in graphic design
      
 👍 Languages I know:   
 
