@@ -53,7 +53,7 @@ Linea Sketch
 😊 Thanks for visiting! 
 
 <img align="center" height="200px" width="280px" alt="GIF" src="/wavehello.gif" alt="wavehello" />
-<img align="center" src="/osho.png" alt="osho" />
+
 <!--
 **gabrielapal/gabrielapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
