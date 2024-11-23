@@ -11,6 +11,11 @@
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
 
+<a href="https://www.gabrielaisdesigning.wordpress.com/">
+    <img
+        src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" 
+        alt="My Wordpress blog"/></a>
+
 👩🏻‍🎓 Currently pursuing an advanced diploma in graphic design
 
 🌱 Learning front-end development to help reduce errors, have better control between design and implementation, and for fun 🤠
