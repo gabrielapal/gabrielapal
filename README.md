@@ -10,11 +10,10 @@
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
-      
-    
-🌱 Learning front-end development
 
 👩🏻‍🎓 Currently pursuing an advanced diploma in graphic design
+
+🌱 Learning front-end development to help reduce errors, have better control between design and implementation, and for fun 🤠
      
 👍 Languages I know:   
 
