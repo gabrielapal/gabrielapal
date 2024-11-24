@@ -18,7 +18,7 @@
 
 👩🏻‍🎓 Currently pursuing an advanced diploma in graphic design
 
-🌱 Learning front-end development to help reduce errors, have better control between design and implementation, and for fun 🤠
+🌱 Learning front-end development to have better control between design and implementation, reduce errors, and for fun 🤠
      
 👍 Languages I know:   
 
