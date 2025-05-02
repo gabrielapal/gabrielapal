@@ -11,10 +11,6 @@
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
 
-<a href="https://leaf-wholesaler-eb0.notion.site/Hi-I-m-Gabriela-Palomo-1474cc85f2e780cf8a68c8dd5b2b114d/">
-    <img
-        src="https://img.shields.io/badge/Website-CC6699?style=for-the-badge&logo=notion&logoColor=white" 
-        alt="My Notion Site"/></a>
 
 👩🏻‍🎓 Currently pursuing an advanced diploma in graphic design
 
